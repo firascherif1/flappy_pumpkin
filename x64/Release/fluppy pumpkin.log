@@ -1,0 +1,20 @@
+﻿  Game.cpp
+E:\programmation c++\fluppy pumpkin\fluppy pumpkin\Game.cpp(139,87): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+E:\programmation c++\fluppy pumpkin\fluppy pumpkin\Game.cpp(139,66): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  Grave.cpp
+E:\programmation c++\fluppy pumpkin\fluppy pumpkin\Grave.cpp(15,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  fluppy pumpkin.cpp
+  Génération de code en cours
+  0 of 236 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  fluppy pumpkin.vcxproj -> E:\programmation c++\fluppy pumpkin\x64\Release\fluppy pumpkin.exe
